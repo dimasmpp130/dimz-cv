@@ -35,16 +35,14 @@ cv-dimz/
     └── favicon.png
 ```
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
 - JavaScript
 - SVG
 
-✏️ Customization
-
-Beberapa bagian yang dapat disesuaikan:
+## ✏️ Customization
 
 - Nama dan profil
 - Foto profil
@@ -56,6 +54,6 @@ Beberapa bagian yang dapat disesuaikan:
 - Daftar project
 - Warna dan tampilan melalui "css/style.css"
 
-📄 License
+## 📄 License
 
 Free to use for personal and educational purposes.
