@@ -1,4 +1,4 @@
-# CV — Dimas Mpp
+# CV — MY CV DIMZ
 
 Personal Curriculum Vitae website dengan tampilan modern, clean, responsive, dan lightweight.
 
@@ -24,7 +24,7 @@ Website ini dibuat sebagai template CV berbasis HTML, CSS, dan JavaScript tanpa 
 ## 📁 Structure
 
 ```text
-cv-dimas/
+cv-dimz/
 ├── index.html
 ├── css/
 │   └── style.css
@@ -33,6 +33,7 @@ cv-dimas/
 └── img/
     ├── profile.webp
     └── favicon.png
+```
 
 🛠️ Technologies
 
@@ -40,22 +41,6 @@ cv-dimas/
 - CSS3
 - JavaScript
 - SVG
-
-🚀 Usage
-
-Clone repository:
-
-git clone https://github.com/username/cv-dimas.git
-
-Masuk ke folder:
-
-cd cv-dimas
-
-Kemudian buka:
-
-index.html
-
-Tidak membutuhkan build tools, npm, atau konfigurasi tambahan.
 
 ✏️ Customization
 
